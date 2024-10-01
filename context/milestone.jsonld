@@ -7,6 +7,7 @@
         "milestone": "https://iot-data-space.github.io/context/milestone.html#",
         "location": "ngsi-ld:location",
         "description": "schema:description",
+        "source":"milestone:source",
         "category": "milestone:cateogry",
         "rtsp": "milestone:rtsp",
         "installedIn": "milestone:installedIn",
