@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "type": "@type",
+        "id": "@id",
+        "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+        "schema": "https://schema.org/",
+        "milestone": "https://iot-data-space.github.io/context/milestone.html#",
+        "location": "ngsi-ld:location",
+        "description": "schema:description",
+        "category": "milestone:cateogry",
+        "rtsp": "milestone:rtsp",
+        "installedIn": "milestone:installedIn",
+        "dateCreated": "ngsi-ld:dateCreated",
+        "dateModified": "ngsi-ld:dateModified"        
+    }
+}
