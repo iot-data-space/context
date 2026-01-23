@@ -1,0 +1,32 @@
+{
+    "@context": {
+        "type": "@type",
+        "id": "@id",
+        "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+        "schema": "https://schema.org/",
+        "mcp": "https://iot-data-space.github.io/context/mcp.html#",
+        "location": "ngsi-ld:location",
+        "description": "schema:description",
+        "located_in": "mcp:located_in",
+        "postal-code": "mcp:postal-code",
+        "address": "mcp:address",
+        "status": "mcp:status",
+        "consumption": "mcp:consumption",
+        "temperature": "mcp:temperature",
+        "illuminance": "mcp:illuminance",
+        "humidity": "mcp:humidity",
+        "motion": "mcp:motion",
+        "sensitivity": "mcp:sensitivity",
+        "alarm_state": "mcp:alarm_state",
+        "battery_level": "mcp:battery_level",
+        "lock_state": "mcp:lock_state",
+        "mode": "mcp:mode",
+        "setpoint": "mcp:setpoint",
+        "co2": "mcp:co2",
+        "voc": "mcp:voc",
+        "consumption": "mcp:consumption",
+        "flow_rate": "mcp:flow_rate",
+        "dateCreated": "ngsi-ld:dateCreated",
+        "dateModified": "ngsi-ld:dateModified"        
+    }
+}
